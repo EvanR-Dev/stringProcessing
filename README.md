@@ -1,6 +1,5 @@
 # stringProcessing
 A simple program that utilizes C/C++ str functions
-	Evan Roman
 
 	Summary: A file of sentences will be read in and the lines will be stored into a vector of strings.
 	For each string, print it, then report the number of chars in the string/sentence (string's length)
